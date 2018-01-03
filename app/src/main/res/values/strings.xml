@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="cam_hint">Align camera with check total</string>
+    <string name="enter_total_label">Enter Total</string>
+    <string name="default_total_amt">$ 000.00</string>
+    <string name="select_tip_label">Select Gratuity ( % )</string>
+    <string name="total_amount_value">$ 000.00</string>
+    <string name="total_amount_label">Total Amount</string>
+    <string name="tip_default_value">$ 000.00</string>
+    <string name="tip_label">Tip Amount</string>
+</resources>
